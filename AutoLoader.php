@@ -11,6 +11,7 @@
 	 }
 	
 	}	
+	
 	spl_autoload_extensions('.php'); // defino a extensão
 	spl_autoload_register('autoload'); 
 	
