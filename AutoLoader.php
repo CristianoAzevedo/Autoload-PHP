@@ -3,6 +3,7 @@
 		$diretorios = array(
 			'Model/',
 			'Dao/'
+			
 		); //array dos locais onde estão as classes
 		
 	 foreach ($diretorios as $diretorio){//laço para listar o diretorios
